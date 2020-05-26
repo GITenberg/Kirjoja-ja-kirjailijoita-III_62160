@@ -1,0 +1,34 @@
+_repo: Kirjoja-ja-kirjailijoita-III_62160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+description: ''
+gutenberg_issued: '2020-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62160'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature -- History and criticism'
+- GITenberg
+tableOfContents: Eräs kohtalotunteen lyyrikko -- Guy de Maupassant -- "Vita nuova"
+  -- Eräs runo rakkaudesta -- Platonin "Symposion" suomeksi -- "Länsimaan perikato"
+  -- Hermann Keyserlingin "Matkapäiväkirja" -- Erään filosoofin päiväkirja -- Anatole
+  France'in "Le petit Pierre" -- Peter Altenbergin kirjallinen testamentti -- "Pan
+  Tadeusz" -- Heinrich Lersch, saksalainen sotarunoilija -- Georg Brandesin Caesar-elämäkerta
+  -- Eräs saksalainen sanomalehtimies -- "Arvojen ja välineitten maailma" -- F.E.
+  Sillanpään "Hurskas kurjuus" -- Eino Leinon "Räikkö Räähkä" -- Juhani Ahon kapina-muistelmat
+  -- Juhani Ahon viimeinen teos -- Juhani Ahon kuolinpäivänä.
+title: Kirjoja ja kirjailijoita III
+url: http://www.gutenberg.org/ebooks/62160
